@@ -5,7 +5,8 @@ You can choose one module from the list below:-
 3)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
-
+Souhardya Biswas
+Dynamic Programming:
+Dynamic programming is a technique used for solving optimization problems by breaking them down into simpler overlapping subproblems. 
+It involves solving each subproblem only once and storing the solutions for future use, which can lead to more efficient solutions. 
+Classic examples include the knapsack problem and Fibonacci sequence calculation.
